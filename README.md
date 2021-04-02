@@ -1,3 +1,0 @@
-# GeekBrains
-Python
-Homework
